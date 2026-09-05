@@ -25,7 +25,7 @@ require (
 	github.com/larksuite/oapi-sdk-go/v3 v3.7.5
 	github.com/mark3labs/mcp-go v0.54.0
 	github.com/maruel/natural v1.3.0
-	github.com/mattn/go-isatty v0.0.22
+	github.com/mattn/go-isatty v0.0.24
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pkg/errors v0.9.1
 	github.com/redis/go-redis/v9 v9.19.0
